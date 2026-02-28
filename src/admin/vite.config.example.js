@@ -1,3 +1,4 @@
+
 const { mergeConfig } = require('vite');
 
 module.exports = (config) => {
